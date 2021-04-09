@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+        package="com.google.android.documentsui.theme.pixel"
+        platformBuildVersionCode="30"
+        platformBuildVersionName="11">
+    <overlay
+        android:priority="0"
+        android:targetName="DocumentsUICustomization"
+        android:targetPackage="com.google.android.documentsui"/>
+</manifest>
